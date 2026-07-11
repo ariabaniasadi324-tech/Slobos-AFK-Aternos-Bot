@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "landsmp-nkwH.aternos.me",
+    "ip": "mooneye.aternos.host",
     "port": 50757,
     "version": "",
     "try-creative": false
